@@ -1,0 +1,11 @@
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\obj\Debug\pCalculadora.csproj.AssemblyReference.cache
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\obj\Debug\pCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\obj\Debug\pCalculadora.Form1.resources
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\obj\Debug\pCalculadora.Properties.Resources.resources
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\obj\Debug\pCalculadora.csproj.GenerateResource.cache
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\obj\Debug\pCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\bin\Debug\pCalculadora.exe.config
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\bin\Debug\pCalculadora.exe
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\bin\Debug\pCalculadora.pdb
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\obj\Debug\pCalculadora.exe
+C:\Users\gelia\Desktop\FATEC\2º Semestre\Linguagem de Programação II\Pojetos Visual Studio\pCalculadora\pCalculadora\obj\Debug\pCalculadora.pdb
