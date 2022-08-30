@@ -1,0 +1,9 @@
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\obj\Debug\PCampeonato.csprojAssemblyReference.cache
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\obj\Debug\PCampeonato.Form1.resources
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\obj\Debug\PCampeonato.Properties.Resources.resources
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\obj\Debug\PCampeonato.csproj.GenerateResource.cache
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\bin\Debug\PCampeonato.exe.config
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\bin\Debug\PCampeonato.exe
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\bin\Debug\PCampeonato.pdb
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\obj\Debug\PCampeonato.exe
+C:\Users\0030482123038\Desktop\PCampeonato\PCampeonato\obj\Debug\PCampeonato.pdb
